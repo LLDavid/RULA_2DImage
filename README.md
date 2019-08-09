@@ -4,5 +4,5 @@
 ## Data 
 All image files can be downloaded from [here](https://drive.google.com/drive/folders/1ZElaLTsBjNorSCqxaxzSLM3CwQSqyHmD?usp=sharing). They are saved as .npy files.
 ## Usage
-I will keep updating
+This repo contains part of code. I will keep updating
 
