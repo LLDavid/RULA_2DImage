@@ -1,0 +1,32 @@
+## Dont't track content of these folders
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+*/video/*
+*/RULA_classfication/*
+*/result/*
+*/data_upload/*
+*/data/*
+*/img_pose
+>>>>>>> e92b5b9068bbd39ad555b10d2138a2563de1fe28
+=======
+video/
+RULA_classfication/
+result/
+data_upload/
+data/
+>>>>>>> e92b5b9068bbd39ad555b10d2138a2563de1fe28
+
+## compiled source
+*.npy
+*.png
+*.jpg
+*.txt
+*.avi
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+=======
+>>>>>>> e92b5b9068bbd39ad555b10d2138a2563de1fe28
+=======
+>>>>>>> e92b5b9068bbd39ad555b10d2138a2563de1fe28
